@@ -1,0 +1,2 @@
+#Sobreescribimos la cantidad de réplicas a 3 para producción 
+replicaCount: 3
