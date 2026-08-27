@@ -1,2 +1,6 @@
 #Sobreescribimos la cantidad de réplicas a 3 para producción 
 replicaCount: 3
+
+service:
+  type: LoadBalancer
+  port: 3000
