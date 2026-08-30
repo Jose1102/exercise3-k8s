@@ -2,6 +2,9 @@
 
 Este repositorio contiene la implementación de un microservicio básico, su contenedorización con Docker y el proceso de despliegue en Kubernetes utilizando Helm, cumpliendo con los estándares de arquitectura escalable y mantenible.
 
+## 🎬 Vídeo demostración
+https://github.com/user-attachments/assets/1c4f7037-fe33-4578-8e41-50b7963cb2ed
+
 ## 🛠️ Tecnologías Utilizadas
 
 - **Node.js & Express:** Para la creación del microservicio.
